@@ -7,7 +7,7 @@ const INITIAL_PRODUCTS = [
     id: 1,
     title: 'Vintage 1969 Mustang Mach 1',
     category: 'Car',
-    image: 'https://picsum.photos/seed/car1/800/600',
+    image: '/image1.jpeg',
     currentBid: 45000,
     highestBidder: 'Alex J.',
     endTime: new Date(Date.now() + 3600000).toISOString(),
